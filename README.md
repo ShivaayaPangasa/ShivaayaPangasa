@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaayapangasa)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivaayaPangasa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaayapangasa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -18,16 +18,16 @@
 
 ```python
 shivaaya = {
-    "name"              : "Shivaaya Pangasa",
-    "degree"            : "B.Tech Artificial Intelligence @ 2024–2028",
-    "role"              : "AI Engineering Intern @ Einstellen.ai",
-    "building"          : "Local AI developer tools · MCP + FastMCP + Ollama + Claude",
-    "domains"           : ["Generative AI", "LLMs", "AI Agents", "Computer Vision",
-                           "Robotics", "NLP", "MLOps", "Embedded AI"],
-    "achievement"       : "🏆 Winner @ AICraft 2.1",
-    "strengths"         : ["Concept → Deployment", "Research + Engineering", "Systems Thinking"],
-    "open_to"           : ["Internships", "Research Collaborations", "Hackathons", "Open Source"],
-    "belief"            : "The future belongs to engineers who combine software, AI and execution."
+    "name"        : "Shivaaya Pangasa",
+    "degree"      : "B.Tech Artificial Intelligence (2024–2028)",
+    "role"        : "AI Engineering Intern @ Einstellen.ai",
+    "building"    : "Local AI developer tools · MCP + FastMCP + Ollama + Claude",
+    "domains"     : ["Generative AI", "LLMs", "AI Agents", "Computer Vision",
+                     "Robotics", "NLP", "MLOps", "Embedded AI"],
+    "achievement" : "🏆 Winner @ AICraft 2.1",
+    "strengths"   : ["Concept → Deployment", "Research + Engineering", "Systems Thinking"],
+    "open_to"     : ["Internships", "Research Collaborations", "Hackathons", "Open Source"],
+    "belief"      : "The future belongs to engineers who combine software, AI and execution."
 }
 ```
 
@@ -76,13 +76,13 @@ shivaaya = {
     <td width="50%" valign="top">
       <h3>🤖 AI DevTools MCP Server</h3>
       <p>Local AI-powered developer tooling system with full MCP integration, local LLM inference via Ollama and Claude Desktop. Production-oriented AI workflow for developers.</p>
-      <p><strong>Stack:</strong> Python · MCP · FastMCP · Ollama · Claude · Local LLMs</p>
+      <p><strong>Stack:</strong> Python · MCP · FastMCP · Ollama · Claude</p>
       <a href="https://github.com/ShivaayaPangasa/AIAgent"><img src="https://img.shields.io/badge/View%20Project-6e00ff?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎙️ AI Interview Transcript Intelligence</h3>
-      <p>End-to-end NLP pipeline that records speech, transcribes via Whisper, analyzes linguistic patterns using GPT-2 perplexity & scores candidate preparedness with full explainability.</p>
-      <p><strong>Stack:</strong> Whisper · GPT-2 · HuggingFace · Streamlit · NLTK · SciPy</p>
+      <p>End-to-end NLP pipeline that records speech, transcribes via Whisper, analyzes linguistic patterns with GPT-2 perplexity and scores candidate preparedness with full explainability.</p>
+      <p><strong>Stack:</strong> Whisper · GPT-2 · HuggingFace · Streamlit · NLTK</p>
       <a href="https://github.com/ShivaayaPangasa/ai-interview-transcript-intelligence"><img src="https://img.shields.io/badge/View%20Project-6e00ff?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
@@ -94,7 +94,7 @@ shivaaya = {
     </td>
     <td width="50%" valign="top">
       <h3>🌍 ARES — Autonomous Environmental Robot</h3>
-      <p>Multi-sensor autonomous robot combining IoT, sensor fusion and environmental monitoring for safety applications. Integrates real-time data processing with robotic control.</p>
+      <p>Multi-sensor autonomous robot combining IoT, sensor fusion and environmental monitoring for safety applications with real-time data processing and robotic control.</p>
       <p><strong>Stack:</strong> Robotics · IoT · Sensor Fusion · Embedded Systems</p>
     </td>
   </tr>
@@ -106,7 +106,7 @@ shivaaya = {
     </td>
     <td width="50%" valign="top">
       <h3>🏥 Multi-Disease Prediction Dashboard</h3>
-      <p>ML-powered predictive health dashboard supporting multiple disease prediction models with an interactive Streamlit interface for clinical-style assessment.</p>
+      <p>ML-powered predictive health dashboard supporting multiple disease models with an interactive Streamlit interface for clinical-style assessment.</p>
       <p><strong>Stack:</strong> ML · Streamlit · scikit-learn · Python</p>
       <a href="https://github.com/ShivaayaPangasa/Prediction_Disease_Outbreak"><img src="https://img.shields.io/badge/View%20Project-6e00ff?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
@@ -115,22 +115,11 @@ shivaaya = {
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivaayaPangasa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaayaPangasa&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
-
 ## 🏆 Achievements & Beyond Code
 
 <div align="center">
 
-| 🏅 | Achievement |
+| | Achievement |
 |---|---|
 | 🥇 | **Winner — AICraft 2.1** Hackathon |
 | 🤖 | AI Agent Builder & Local LLM Developer |
@@ -168,12 +157,12 @@ shivaaya = {
 
 <div align="center">
 
-### 💬 Let's Talk
+### 💬 Let's Connect
 
-*I'm open to internships, research collaborations, hackathons and conversations about AI, robotics and what's next.*
+*Open to internships, research collaborations, hackathons and conversations about AI, robotics and what's next.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaayapangasa)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaayapangasa@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
