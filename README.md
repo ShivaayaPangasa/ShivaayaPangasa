@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaayapangasa)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivaayaPangasa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaayapangasa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -21,20 +21,20 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-🎓 Degree-9b59b6?style=for-the-badge&logoColor=white" /><br/>
-      <sub>B.Tech Artificial Intelligence<br/>2024 – 2028</sub>
+      <img src="https://img.shields.io/badge/🎓 Degree-9b59b6?style=for-the-badge&logoColor=white" /><br/><br/>
+      <sub><b>B.Tech Artificial Intelligence</b><br/>2024 – 2028</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-💼 Role-8e44ad?style=for-the-badge&logoColor=white" /><br/>
-      <sub>AI Engineering Intern<br/>@ Einstellen.ai</sub>
+      <img src="https://img.shields.io/badge/💼 Role-8e44ad?style=for-the-badge&logoColor=white" /><br/><br/>
+      <sub><b>AI Engineering Intern</b><br/>@ Einstellen.ai</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-🔨 Building-e91e8c?style=for-the-badge&logoColor=white" /><br/>
-      <sub>Local AI Dev Tools<br/>MCP · Ollama · Claude</sub>
+      <img src="https://img.shields.io/badge/🔨 Building-c0392b?style=for-the-badge&logoColor=white" /><br/><br/>
+      <sub><b>Local AI Dev Tools</b><br/>MCP · Ollama · Claude</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-🏆 Achievement-9b59b6?style=for-the-badge&logoColor=white" /><br/>
-      <sub>Winner<br/>@ AICraft 2.1</sub>
+      <img src="https://img.shields.io/badge/🏆 Achievement-e91e8c?style=for-the-badge&logoColor=white" /><br/><br/>
+      <sub><b>Winner @ AICraft 2.1</b><br/>Hackathon</sub>
     </td>
   </tr>
 </table>
@@ -75,8 +75,10 @@
 **Infrastructure & Tools**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -102,6 +104,20 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>⚡ QuantumFeed — AI News Intelligence</h3>
+      <p>AI-powered Science & Tech news platform that aggregates live articles via Guardian API, generates abstractive summaries using Facebook BART, and includes an experimental fake news detection module. Compares transformer-based vs classical NLP (TF-IDF + LSA) approaches.</p>
+      <p><strong>Stack:</strong> Flask · BART · HuggingFace · SQLite · TF-IDF · LSA · NLTK</p>
+      <a href="https://github.com/ShivaayaPangasa/QuantumFeed"><img src="https://img.shields.io/badge/View%20Project-e91e8c?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Multi-Disease Prediction Dashboard</h3>
+      <p>ML-powered predictive health dashboard supporting multiple disease models with an interactive Streamlit interface for clinical-style assessment.</p>
+      <p><strong>Stack:</strong> ML · Streamlit · scikit-learn · Python</p>
+      <a href="https://github.com/ShivaayaPangasa/Prediction_Disease_Outbreak"><img src="https://img.shields.io/badge/View%20Project-9b59b6?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>♻️ AI Waste Segregating Robot</h3>
       <p>Autonomous robotic vehicle with real-time computer vision and robotic manipulation for intelligent waste classification and sorting. Deployed on edge hardware.</p>
       <p><strong>Stack:</strong> Raspberry Pi · OpenCV · Python · Robotic Manipulation</p>
@@ -119,10 +135,9 @@
       <p><strong>Stack:</strong> Deep Learning · LSTM · Computer Vision · Python</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Multi-Disease Prediction Dashboard</h3>
-      <p>ML-powered predictive health dashboard supporting multiple disease models with an interactive Streamlit interface for clinical-style assessment.</p>
-      <p><strong>Stack:</strong> ML · Streamlit · scikit-learn · Python</p>
-      <a href="https://github.com/ShivaayaPangasa/Prediction_Disease_Outbreak"><img src="https://img.shields.io/badge/View%20Project-e91e8c?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <h3>📈 ML Analytics Suite</h3>
+      <p>Collection of ML solutions covering customer churn prediction, sentiment analysis and predictive analytics with end-to-end pipelines.</p>
+      <p><strong>Stack:</strong> Python · scikit-learn · NLP · Pandas</p>
     </td>
   </tr>
 </table>
@@ -171,7 +186,7 @@
 *Open to internships, research collaborations, hackathons and conversations about AI, robotics and what's next.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaayapangasa)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaayapangasa@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,50:8e44ad,100:e91e8c&height=120&section=footer" width="100%"/>
 
