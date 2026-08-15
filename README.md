@@ -52,6 +52,7 @@
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -63,6 +64,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3D6B22?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Generative AI & LLMs**
 
@@ -105,15 +107,29 @@
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ QuantumFeed — AI News Intelligence</h3>
-      <p>AI-powered Science & Tech news platform that aggregates live articles via Guardian API, generates abstractive summaries using Facebook BART, and includes an experimental fake news detection module. Compares transformer-based vs classical NLP (TF-IDF + LSA) approaches.</p>
-      <p><strong>Stack:</strong> Flask · BART · HuggingFace · SQLite · TF-IDF · LSA · NLTK</p>
+      <p>AI-powered Science & Tech news platform aggregating live articles via Guardian API, generating abstractive summaries using Facebook BART, with fake news detection and a classical vs transformer NLP comparison.</p>
+      <p><strong>Stack:</strong> Flask · BART · HuggingFace · SQLite · TF-IDF · NLTK</p>
       <a href="https://github.com/ShivaayaPangasa/QuantumFeed"><img src="https://img.shields.io/badge/View%20Project-e91e8c?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 Farmer Market Price Prediction</h3>
+      <p>ML model predicting agricultural commodity prices to help farmers make data-driven decisions. Addresses real-world impact by bridging the gap between market data and farming communities.</p>
+      <p><strong>Stack:</strong> Python · scikit-learn · Pandas · Jupyter</p>
+      <a href="https://github.com/ShivaayaPangasa/Farmer_Market_Price_Prediction"><img src="https://img.shields.io/badge/View%20Project-9b59b6?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 CGPA & Package Predictor</h3>
+      <p>Predictive ML app that estimates placement packages based on academic performance — useful for students and career counsellors to set realistic expectations and plan early.</p>
+      <p><strong>Stack:</strong> Python · ML · Jupyter · Streamlit</p>
+      <a href="https://github.com/ShivaayaPangasa/CGPA_Package_Predictor_APP"><img src="https://img.shields.io/badge/View%20Project-8e44ad?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 Multi-Disease Prediction Dashboard</h3>
       <p>ML-powered predictive health dashboard supporting multiple disease models with an interactive Streamlit interface for clinical-style assessment.</p>
       <p><strong>Stack:</strong> ML · Streamlit · scikit-learn · Python</p>
-      <a href="https://github.com/ShivaayaPangasa/Prediction_Disease_Outbreak"><img src="https://img.shields.io/badge/View%20Project-9b59b6?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/ShivaayaPangasa/Prediction_Disease_Outbreak"><img src="https://img.shields.io/badge/View%20Project-e91e8c?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
@@ -126,18 +142,6 @@
       <h3>🌍 ARES — Autonomous Environmental Robot</h3>
       <p>Multi-sensor autonomous robot combining IoT, sensor fusion and environmental monitoring for safety applications with real-time data processing and robotic control.</p>
       <p><strong>Stack:</strong> Robotics · IoT · Sensor Fusion · Embedded Systems</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥋 Martial Arts Action Recognition</h3>
-      <p>Real-time recognition system for martial arts techniques using a custom LSTM-based spatio-temporal sequence classifier trained on video data.</p>
-      <p><strong>Stack:</strong> Deep Learning · LSTM · Computer Vision · Python</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 ML Analytics Suite</h3>
-      <p>Collection of ML solutions covering customer churn prediction, sentiment analysis and predictive analytics with end-to-end pipelines.</p>
-      <p><strong>Stack:</strong> Python · scikit-learn · NLP · Pandas</p>
     </td>
   </tr>
 </table>
